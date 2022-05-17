@@ -8,7 +8,7 @@ TITLE:Vice President, Mortgage Lending
 EMAIL;type=INTERNET;type=WORK;type=pref:Monica.Traynor@grarate.com
 TEL;type=WORK;type=VOICE:623-521-9633
 item1.ADR;type=WORK;type=pref:;;7221 E Princess Blvd Ste 117;;;Scottsdale, AZ 85255
-item1.X-ABADR:sg
+item1.X-ABADR:US
 item2.URL;type=pref:www.GRARate.com/MonicaTraynor
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
